@@ -1,0 +1,5 @@
+{
+  "name": "AI Activity Plan Generator",
+  "description": "An intelligent tool for educators to generate detailed, curriculum-aligned activity plans for Year 5 students. Simply provide a brief idea, select learning areas, and let the AI create a comprehensive, editable plan complete with learning outcomes, resources, and instructions.",
+  "requestFramePermissions": []
+}
